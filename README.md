@@ -16,7 +16,7 @@ Automated test cases can run using following methods. User is expected to specif
 	- Specify argument  --variable BROWSER:chrome and run tests (For tests to be run in firefox, --variable BROWSER:firefox has to be passed as argument)
 
 - Use robot command in command line 
-	- open command line and run  'robot --variable BROWSER:chrome C:\CRF\Flasky-TA' (For tests to be run in firefox, --variable BROWSER:firefox has to be passed as argument)
+	- open command line and run  'robot --variable BROWSER:chrome C:\CRF\Flasky' (For tests to be run in firefox, --variable BROWSER:firefox has to be passed as argument)
 	
 [Instructions to run the CRF provided demo app can be found here ](/RunDemoApp.md)
 
