@@ -2,7 +2,7 @@
 
 Robot framework is used as the test automation framework and web testing library used is SeleniumLibrary. IDE used for writing and running tests is RIDE. To run the test scripts, follow the instructions below
 
-- checkout the test automation code from https://github.com/soumyarnair/Flasky-TA to folder of your choice ( eg: C:\CRF\Flasky-TA)
+- checkout the test automation code from https://github.com/soumyarnair/Flasky to folder of your choice ( eg: C:\CRF\Flasky)
 - Install robot framework using command 'pip install robotframework', make sure robot is installed using command 'robot --version' in command line
 - Install seleniumlibrary using command 'pip install --upgrade robotframework-seleniumlibrary'
 - Install RIDE (Test data editor for Robot Framework) using command 'pip install --upgrade robotframework-ride'
@@ -24,7 +24,7 @@ Automated test cases can run using following methods. User is expected to specif
 
 Test strategy used for testing the demo app is a combination of functionality testing(black box), flow testing, scenario testing, user testing, security testing and automation testing based on keyword driven approach.
 
-## potential gaps in application
+## Potential gaps in application
 
 - SSL certificate should be implemented for secure web application
 - Demo app is not localised and supports only english.
